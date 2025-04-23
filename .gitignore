@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# OS / Editor specific
+.DS_Store
+.vscode/
+
+# Flask data files
+users.json
+tasks.json
+
+# Exports
+*.csv
